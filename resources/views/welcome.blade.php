@@ -1,1 +1,1 @@
-<h1> Hello Wachira, Welcome to the world of Laravel </h1>
+<h1> Hello Wachira, Welcome to the World of Laravel </h1>
